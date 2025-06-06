@@ -2,7 +2,7 @@
 
 # ⛵ Odyssey
 
-**AR Navigation and Journey Management for Flood Survival**
+**AR Navigation and Journey Management**
 
 [![Augmented Reality](https://img.shields.io/badge/Augmented_Reality-FF6B6B?style=for-the-badge&logo=unity&logoColor=white)]()
 [![Navigation](https://img.shields.io/badge/Navigation-4ECDC4?style=for-the-badge&logo=compass&logoColor=white)]()
