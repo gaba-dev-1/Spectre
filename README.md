@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ASTÉRIX COSMIQUE ⚡
+# ⚡ ASTÉRIX ET LE COSMOS⚡
 ## *Triarchie Gauloise*
 
 ---
